@@ -12,11 +12,21 @@ Build a supervised machine learning model to predict customer churn and evaluate
 ## Project Structure
 - `notebooks/`: Exploratory data analysis and initial experimentation
 - `src/`: Reproducible training, preprocessing, and evaluation scripts
-- `data/`: Input datasets (not included in repo)
+- `data/`: Input datasets used in the project (included for reproducibility)
 
 ## Dataset
 - 7043 customers
 - 23 features
+
+The dataset used in this project is the Telco Customer Churn dataset,
+publicly available on Kaggle.
+
+Source: Kaggle – Telco Customer Churn  
+Author: Blastchar  
+Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+The dataset is included in this repository for educational
+and portfolio purposes.
 
 ## Preprocessing
 - Handled missing values
