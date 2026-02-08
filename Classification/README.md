@@ -49,6 +49,8 @@ and portfolio purposes.
 - Random Forest: best recall, slightly lower precision, good generalization
 - Gradient Boosting: strong potential but needs careful tuning
 
+The detailed experiments, data preprocessing, and analysis are documented in the Jupyter notebook `notebooks/churn_analysis.ipynb`.
+
 ## Next Steps / Improvements
 - Hyperparameter search
 - Feature engineering
